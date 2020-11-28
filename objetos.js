@@ -15,3 +15,6 @@ var coche = {
 
 console.log(coche.edad = 2018)
 console.log(coche.edad)
+
+//Las propiedades de un objeto definen las caracerísticas del objeto.
+//Las propiedades de un objeto pueden ser una variable, una función cuyo caso la propiedades es conocida como un método.
