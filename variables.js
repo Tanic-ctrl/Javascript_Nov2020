@@ -1,5 +1,4 @@
 //Variables y constantes
-
 var arbol = "Sauce";
 var nombre = "Tania";
 var apellido = "Radilla"
@@ -18,7 +17,6 @@ console.log(accesorio)
 //accesorio = "Casitas"
 //console.log(accesorio)
 
-
 //Arrays
 console.log("..... Arrays")
 var dogs = ['Rex', 'Toby', 9];
@@ -30,8 +28,6 @@ console.log(dogs)
 
 dogs = true
 console.log(dogs)
-
-
 
 //Variables nulas, falsas y vacias
 var emptyVariable = null
@@ -47,6 +43,7 @@ console.log(vaciaVariable)
 var miStack = []
 console.log(miStack)
 
+//Push los ordena en una pila, los va agregando en la siguiente posición libre
 console.log("..... ordenar array")
 miStack.push(123456789)
 miStack.push("arbol")
